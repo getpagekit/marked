@@ -1,4 +1,6 @@
 /**
+ * marked 是一个旧项目，用于GetPagekit 开发的过度
+ *
  * marked - a markdown parser
  * Copyright (c) 2011-2014, Christopher Jeffrey. (MIT Licensed)
  * https://github.com/chjj/marked
